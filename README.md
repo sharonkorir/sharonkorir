@@ -6,14 +6,14 @@
 
 ### 📫 Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/_overgeek_#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/_overgeek_#gh-dark-mode-only)
+[![website]](https://twitter.com/_overgeek_#gh-light-mode-only)
+[![website]](https://twitter.com/_overgeek_#gh-dark-mode-only)
+
+[![website]](https://www.linkedin.com/in/sharonkorir/#gh-light-mode-only)
+[![website]](https://www.linkedin.com/in/sharonkorir/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sharonkorir/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sharonkorir/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_overgeek_/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_overgeek_/#gh-dark-mode-only)
+[![website]](https://www.instagram.com/_overgeek_/#gh-light-mode-only)
+[![website]](https://www.instagram.com/_overgeek_/#gh-dark-mode-only)
 
 <!--- 💬 Ask me about 
  ⚡ Fun fact: I am bananas about bananas.
