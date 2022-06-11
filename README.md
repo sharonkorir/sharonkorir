@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there, I am Sharon Korir 👋
 
-<!--
-**sharonkorir/sharonkorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on property managemnt application
+- 🌱 I’m currently learning React
+- 👯 I’m looking to grow my professional network
 
-Here are some ideas to get you started:
+### 📫 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/twitter-light.svg)](https://twitter.com/_overgeek_#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/_overgeek_#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sharonkorir/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sharonkorir/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_overgeek_/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_overgeek_/#gh-dark-mode-only)
+
+<!--- 💬 Ask me about 
+ ⚡ Fun fact: I am bananas about bananas.
+- 🤔 I’m looking for help with TDD
+- -->
+
+## Design
+- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Frameworks and Libraries
+- ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+## Core languages
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Database
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sharonkorir)
