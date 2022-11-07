@@ -22,5 +22,5 @@ I'm currently focused on turning ⚡ ideas ⚡ into real life web apps. View my 
 
 - 🌱 I’m currently learning ReactJS and Tailwind CSS
 - 👯 I’m looking to collaborate on something fun
-- 💬 Ask me about anything
+- 💬 Ask me about anything F1
 - ⚡ Fun fact: I [doodle](https://www.instagram.com/_artrocious_/)
